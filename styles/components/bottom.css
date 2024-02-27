@@ -1,0 +1,7 @@
+.bottom{
+   flex:1;
+   display:flex;
+   gap:3rem;
+   justify-content: center;
+   padding:1rem;
+}

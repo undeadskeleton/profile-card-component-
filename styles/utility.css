@@ -1,0 +1,9 @@
+.pattern{
+   width:30%;
+}
+
+.bottom__counts{
+   display:flex;
+   flex-direction:column;
+   align-items: center;
+}
